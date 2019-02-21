@@ -23,5 +23,7 @@ output = translate(word)
 if type(output) == list:
     for item in output:
         print(item)
+	print("hello world")
 else:
     print(output)
+    print("delhivery")
