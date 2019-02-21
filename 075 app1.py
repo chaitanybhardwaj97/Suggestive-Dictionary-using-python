@@ -23,7 +23,7 @@ output = translate(word)
 if type(output) == list:
     for item in output:
         print(item)
-	print("hello world")
+	print("hello world hello world testing")
 else:
     print(output)
     print("delhivery")
